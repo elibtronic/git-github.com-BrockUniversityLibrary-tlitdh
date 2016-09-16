@@ -15,7 +15,7 @@ This simple build is meant to be an introduction to the Arduino and how to use i
 - 1 small breadboard
 - USB A to B cable (the one with the square end on it)
 
-![Parts](pics/parts.jpg)
+<img src="pics/parts.jpg" width="350">
 
 
 ##The Build
